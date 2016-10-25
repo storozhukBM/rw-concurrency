@@ -1,0 +1,140 @@
+*** Run - 0
+1 readers 1 writers SynchronizedSpaceship reads=51,652,727 moves=22,694,048 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReadWriteLockSpaceShip reads=7,586,193 moves=21,051,985 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReentrantLockSpaceship reads=20,247,411 moves=27,755,961 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockSpaceship reads=17,194,522 moves=32,335,148 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockWithRetriesSpaceship reads=30,652,365 moves=43,009,957 readAttempts moveAttempts observedMoves
+1 readers 1 writers LockFreeSpaceship reads=65,182,403 moves=108,221,489 readAttempts moveAttempts observedMoves
+*** Run - 1
+1 readers 1 writers SynchronizedSpaceship reads=32,944,128 moves=33,164,313 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReadWriteLockSpaceShip reads=13,238,864 moves=21,057,448 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReentrantLockSpaceship reads=15,354,997 moves=20,064,774 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockSpaceship reads=27,740,622 moves=37,803,235 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockWithRetriesSpaceship reads=20,820,799 moves=52,826,498 readAttempts moveAttempts observedMoves
+1 readers 1 writers LockFreeSpaceship reads=50,501,694 moves=103,018,178 readAttempts moveAttempts observedMoves
+*** Run - 2
+1 readers 1 writers SynchronizedSpaceship reads=29,788,883 moves=35,270,646 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReadWriteLockSpaceShip reads=12,837,528 moves=22,641,590 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReentrantLockSpaceship reads=15,901,558 moves=19,631,501 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockSpaceship reads=27,746,988 moves=37,993,464 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockWithRetriesSpaceship reads=24,530,167 moves=56,441,221 readAttempts moveAttempts observedMoves
+1 readers 1 writers LockFreeSpaceship reads=48,731,646 moves=103,074,287 readAttempts moveAttempts observedMoves
+*** Run - 3
+1 readers 1 writers SynchronizedSpaceship reads=40,426,216 moves=29,384,733 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReadWriteLockSpaceShip reads=13,676,658 moves=21,039,017 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReentrantLockSpaceship reads=16,021,918 moves=19,321,591 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockSpaceship reads=25,466,829 moves=38,414,127 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockWithRetriesSpaceship reads=23,679,438 moves=70,903,496 readAttempts moveAttempts observedMoves
+1 readers 1 writers LockFreeSpaceship reads=56,268,096 moves=109,090,094 readAttempts moveAttempts observedMoves
+*** Run - 4
+1 readers 1 writers SynchronizedSpaceship reads=23,400,924 moves=28,391,569 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReadWriteLockSpaceShip reads=12,532,941 moves=13,912,945 readAttempts moveAttempts observedMoves
+1 readers 1 writers ReentrantLockSpaceship reads=13,502,831 moves=14,114,796 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockSpaceship reads=24,819,238 moves=37,550,643 readAttempts moveAttempts observedMoves
+1 readers 1 writers StampedLockWithRetriesSpaceship reads=16,891,416 moves=42,169,626 readAttempts moveAttempts observedMoves
+1 readers 1 writers LockFreeSpaceship reads=38,964,064 moves=83,501,208 readAttempts moveAttempts observedMoves
+*** Run - 0
+2 readers 1 writers SynchronizedSpaceship reads=58,279,033 moves=28,119,717 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReadWriteLockSpaceShip reads=30,741,566 moves=43,680,444 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReentrantLockSpaceship reads=85,762,489 moves=47,662,982 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockSpaceship reads=37,060,527 moves=18,271,001 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockWithRetriesSpaceship reads=43,230,124 moves=38,929,410 readAttempts moveAttempts observedMoves
+2 readers 1 writers LockFreeSpaceship reads=219,195,828 moves=56,065,677 readAttempts moveAttempts observedMoves
+*** Run - 1
+2 readers 1 writers SynchronizedSpaceship reads=50,275,524 moves=28,379,511 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReadWriteLockSpaceShip reads=31,109,767 moves=38,805,513 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReentrantLockSpaceship reads=80,120,348 moves=66,399,297 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockSpaceship reads=36,833,823 moves=16,954,875 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockWithRetriesSpaceship reads=40,390,996 moves=31,966,784 readAttempts moveAttempts observedMoves
+2 readers 1 writers LockFreeSpaceship reads=73,219,102 moves=74,629,194 readAttempts moveAttempts observedMoves
+*** Run - 2
+2 readers 1 writers SynchronizedSpaceship reads=46,355,524 moves=23,976,212 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReadWriteLockSpaceShip reads=31,191,065 moves=36,669,064 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReentrantLockSpaceship reads=88,580,431 moves=59,652,881 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockSpaceship reads=37,662,399 moves=21,916,680 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockWithRetriesSpaceship reads=41,759,745 moves=25,245,709 readAttempts moveAttempts observedMoves
+2 readers 1 writers LockFreeSpaceship reads=168,029,370 moves=54,892,033 readAttempts moveAttempts observedMoves
+*** Run - 3
+2 readers 1 writers SynchronizedSpaceship reads=46,985,559 moves=25,075,829 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReadWriteLockSpaceShip reads=30,451,546 moves=37,935,588 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReentrantLockSpaceship reads=91,785,690 moves=39,822,561 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockSpaceship reads=37,903,691 moves=16,876,181 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockWithRetriesSpaceship reads=29,214,817 moves=25,988,341 readAttempts moveAttempts observedMoves
+2 readers 1 writers LockFreeSpaceship reads=81,329,790 moves=80,383,107 readAttempts moveAttempts observedMoves
+*** Run - 4
+2 readers 1 writers SynchronizedSpaceship reads=54,081,606 moves=29,407,763 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReadWriteLockSpaceShip reads=30,477,658 moves=35,374,006 readAttempts moveAttempts observedMoves
+2 readers 1 writers ReentrantLockSpaceship reads=71,329,060 moves=68,814,277 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockSpaceship reads=47,493,862 moves=18,198,930 readAttempts moveAttempts observedMoves
+2 readers 1 writers StampedLockWithRetriesSpaceship reads=34,197,403 moves=20,294,396 readAttempts moveAttempts observedMoves
+2 readers 1 writers LockFreeSpaceship reads=88,141,574 moves=75,265,101 readAttempts moveAttempts observedMoves
+*** Run - 0
+3 readers 1 writers SynchronizedSpaceship reads=75,843,275 moves=21,308,643 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReadWriteLockSpaceShip reads=34,131,582 moves=23,389,394 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReentrantLockSpaceship reads=97,512,071 moves=29,941,515 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockSpaceship reads=66,341,185 moves=11,410,202 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockWithRetriesSpaceship reads=66,592,669 moves=25,665,968 readAttempts moveAttempts observedMoves
+3 readers 1 writers LockFreeSpaceship reads=145,156,388 moves=67,823,045 readAttempts moveAttempts observedMoves
+*** Run - 1
+3 readers 1 writers SynchronizedSpaceship reads=52,328,143 moves=19,323,985 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReadWriteLockSpaceShip reads=36,703,813 moves=26,612,606 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReentrantLockSpaceship reads=96,898,403 moves=34,508,528 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockSpaceship reads=97,649,906 moves=9,140,283 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockWithRetriesSpaceship reads=41,389,919 moves=19,279,008 readAttempts moveAttempts observedMoves
+3 readers 1 writers LockFreeSpaceship reads=171,278,308 moves=54,261,190 readAttempts moveAttempts observedMoves
+*** Run - 2
+3 readers 1 writers SynchronizedSpaceship reads=57,549,124 moves=20,478,282 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReadWriteLockSpaceShip reads=34,613,678 moves=25,591,081 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReentrantLockSpaceship reads=94,917,506 moves=33,890,617 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockSpaceship reads=83,911,801 moves=8,777,551 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockWithRetriesSpaceship reads=38,901,763 moves=20,387,623 readAttempts moveAttempts observedMoves
+3 readers 1 writers LockFreeSpaceship reads=114,597,458 moves=67,352,553 readAttempts moveAttempts observedMoves
+*** Run - 3
+3 readers 1 writers SynchronizedSpaceship reads=51,223,769 moves=22,349,671 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReadWriteLockSpaceShip reads=35,359,218 moves=25,606,783 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReentrantLockSpaceship reads=97,923,956 moves=33,205,126 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockSpaceship reads=101,209,251 moves=8,138,580 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockWithRetriesSpaceship reads=40,626,656 moves=18,552,927 readAttempts moveAttempts observedMoves
+3 readers 1 writers LockFreeSpaceship reads=154,060,017 moves=71,181,948 readAttempts moveAttempts observedMoves
+*** Run - 4
+3 readers 1 writers SynchronizedSpaceship reads=62,137,808 moves=16,293,789 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReadWriteLockSpaceShip reads=35,536,891 moves=25,251,125 readAttempts moveAttempts observedMoves
+3 readers 1 writers ReentrantLockSpaceship reads=94,579,122 moves=34,134,390 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockSpaceship reads=111,450,747 moves=10,978,638 readAttempts moveAttempts observedMoves
+3 readers 1 writers StampedLockWithRetriesSpaceship reads=47,324,567 moves=20,088,367 readAttempts moveAttempts observedMoves
+3 readers 1 writers LockFreeSpaceship reads=145,625,694 moves=69,473,512 readAttempts moveAttempts observedMoves
+*** Run - 0
+2 readers 2 writers SynchronizedSpaceship reads=40,589,900 moves=50,147,648 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReadWriteLockSpaceShip reads=23,864,038 moves=70,779,129 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReentrantLockSpaceship reads=58,875,866 moves=72,352,460 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockSpaceship reads=101,757,987 moves=74,769,609 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockWithRetriesSpaceship reads=161,304,327 moves=74,573,170 readAttempts moveAttempts observedMoves
+2 readers 2 writers LockFreeSpaceship reads=111,073,342 moves=47,558,135 readAttempts moveAttempts observedMoves
+*** Run - 1
+2 readers 2 writers SynchronizedSpaceship reads=36,194,688 moves=40,985,972 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReadWriteLockSpaceShip reads=24,267,901 moves=60,174,661 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReentrantLockSpaceship reads=64,843,575 moves=64,772,308 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockSpaceship reads=85,124,722 moves=79,462,101 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockWithRetriesSpaceship reads=155,744,158 moves=62,563,257 readAttempts moveAttempts observedMoves
+2 readers 2 writers LockFreeSpaceship reads=103,802,510 moves=49,018,096 readAttempts moveAttempts observedMoves
+*** Run - 2
+2 readers 2 writers SynchronizedSpaceship reads=35,403,738 moves=45,427,487 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReadWriteLockSpaceShip reads=24,424,126 moves=57,054,383 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReentrantLockSpaceship reads=64,979,410 moves=64,871,381 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockSpaceship reads=106,953,509 moves=76,741,940 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockWithRetriesSpaceship reads=138,508,004 moves=53,143,866 readAttempts moveAttempts observedMoves
+2 readers 2 writers LockFreeSpaceship reads=87,500,284 moves=47,751,352 readAttempts moveAttempts observedMoves
+*** Run - 3
+2 readers 2 writers SynchronizedSpaceship reads=38,944,073 moves=42,829,899 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReadWriteLockSpaceShip reads=24,481,433 moves=57,779,889 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReentrantLockSpaceship reads=65,302,802 moves=64,236,053 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockSpaceship reads=119,568,867 moves=76,973,586 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockWithRetriesSpaceship reads=148,936,161 moves=52,419,558 readAttempts moveAttempts observedMoves
+2 readers 2 writers LockFreeSpaceship reads=123,538,837 moves=51,404,394 readAttempts moveAttempts observedMoves
+*** Run - 4
+2 readers 2 writers SynchronizedSpaceship reads=35,845,865 moves=38,980,455 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReadWriteLockSpaceShip reads=25,436,548 moves=57,575,447 readAttempts moveAttempts observedMoves
+2 readers 2 writers ReentrantLockSpaceship reads=69,695,489 moves=56,955,584 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockSpaceship reads=111,666,397 moves=74,123,462 readAttempts moveAttempts observedMoves
+2 readers 2 writers StampedLockWithRetriesSpaceship reads=129,707,122 moves=60,658,682 readAttempts moveAttempts observedMoves
+2 readers 2 writers LockFreeSpaceship reads=109,092,639 moves=50,738,820 readAttempts moveAttempts observedMoves
